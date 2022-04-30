@@ -1,6 +1,6 @@
 {
     "name": "Github Package.json Enhancer",
-    "description": "An extension for enhancing Github's package.json file viewing experience by making npm dependencies as direct hyper links to corresponding npm package page.",
+    "description": "Enhance Github's package.json file viewing experience by making npm dependencies as direct links to npm package page.",
     "version": "0.1.0",
     "manifest_version": 3,
     "content_scripts": [
