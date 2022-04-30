@@ -1,4 +1,4 @@
-# github-package-json-enhancer
+# Github Package.json Enhancer ✨
 An extension for enhancing Github's package.json file viewing experience by making NPM dependencies as direct hyper links to corresponding NPM package page
 
 Enhance Package.json on Github by linking up modules to NPM.
