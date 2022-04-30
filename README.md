@@ -3,6 +3,9 @@ An extension for enhancing Github's package.json file viewing experience by maki
 
 Enhance Package.json on Github by linking up modules to NPM.
 
+<img alt="Github Package.json Enhancer" src="https://user-images.githubusercontent.com/18095705/166120523-02f94fe5-7402-47a7-9384-6bc9ef5055a4.png">
+
+
 Features:
 1. Adds links to NPM page for all packages listed as dependencies and devDependencies
 2. Easily navigate to package page right from GitHub without googling or searching. 
