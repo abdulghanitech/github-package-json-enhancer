@@ -1,2 +1,2 @@
 # github-package-json-enhancer
-A chrome extension for enhancing Github package.json viewing experience. Easily open npm packages as links.
+An extension for enhancing Github's package.json file viewing experience by making npm dependencies as direct hyper links to corresponding npm package page
